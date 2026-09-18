@@ -1,2 +1,8 @@
 # 30-projects
-30 small projects exploring software, AI, systems and hardware.
+
+A collection of 30 small projects exploring software engineering,
+artificial intelligence, computer systems and hardware.
+
+| # | Project | Description | Tech |
+|---|---------|-------------|------|
+| 01 | — | — | — |
