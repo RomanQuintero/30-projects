@@ -9,7 +9,7 @@ projects covering different technologies and ideas.
 | # | Project | Description | Tech |
 |---|---------|-------------|------|
 | 01 | [Screen Watcher](https://github.com/RomanQuintero/screen-watcher) | Local desktop application that detects visual changes and builds a semantic history of screen activity. | Python · PyTorch · Qwen3-VL · DXcam · Tkinter |
-| 02 | — | — | — |
+| 02 | [TinyDB](https://github.com/RomanQuintero/tinydb) | Key-value database built from scratch to explore indexing, append-only storage and log compaction through benchmarks. | C++ · CMake · Binary Storage · Hash Indexing |
 | 03 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
