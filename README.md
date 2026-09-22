@@ -11,7 +11,8 @@ projects covering different technologies and ideas.
 | 01 | [Screen Watcher](https://github.com/RomanQuintero/screen-watcher) | Local desktop application that detects visual changes and builds a semantic history of screen activity. | Python · PyTorch · Qwen3-VL · DXcam · Tkinter |
 | 02 | [TinyDB](https://github.com/RomanQuintero/tinydb) | Key-value database built from scratch to explore indexing, append-only storage and log compaction through benchmarks. | C++ · CMake · Binary Storage · Hash Indexing |
 | 03 | [Kafka Market Stream](https://github.com/RomanQuintero/kafka-market-stream) | Real-time market data pipeline that streams Binance trades through Kafka to independent consumers and a live dashboard. | Java · Kafka · Docker · React · TypeScript · SSE |
-| 04 | — | — | — |
+| 04 | [Unity vs Unreal Face AR](https://github.com/RomanQuintero/unity-vs-unreal-face-ar) | One-day experiment comparing Unity and Unreal Engine by building the same Android face-tracking AR experience. | Unity · Unreal Engine · Android · ARCore · Face Tracking |
+| 05 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
