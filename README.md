@@ -16,7 +16,8 @@ projects covering different technologies and ideas.
 | 06 | [Adaptive Edge-Cloud Inference](https://github.com/RomanQuintero/adaptive-edge-cloud-inference) | Adaptive vision system where global Cloud detections guide local Edge attention, reducing remote inference calls by 71% and transferred data by 74% in a reproducible video benchmark. | Kotlin · Android · TFLite · Python · FastAPI · PyTorch · CUDA |
 | 07 | [Personal Web Search](https://github.com/RomanQuintero/personal-web-search) | From-scratch web search engine with controlled crawling, an inverted index and BM25 ranking, revisiting a personal search engine project from 2022. | Java · Jsoup · BM25 · Information Retrieval |
 | 08 | [GLB Stress Lab](https://github.com/RomanQuintero/glb-stress-lab) | Browser performance experiment comparing main-thread and Web Worker GLB loading, measuring responsiveness, blocking time and time to first rendered frame across increasingly large 3D assets. | JavaScript · Three.js · Web Workers · WebGL · Performance API |
-| 09 | — | — | — |
+| 09 | [Desktop Dragon](https://github.com/RomanQuintero/desktop-dragon) | Persistent Windows desktop pet with global eye tracking, direct interaction and a lightweight Tamagotchi-style state that continues evolving while the application is closed. | C# · .NET 8 · WPF · Win32 · JSON |
+| 10 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
