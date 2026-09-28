@@ -17,7 +17,8 @@ projects covering different technologies and ideas.
 | 07 | [Personal Web Search](https://github.com/RomanQuintero/personal-web-search) | From-scratch web search engine with controlled crawling, an inverted index and BM25 ranking, revisiting a personal search engine project from 2022. | Java · Jsoup · BM25 · Information Retrieval |
 | 08 | [GLB Stress Lab](https://github.com/RomanQuintero/glb-stress-lab) | Browser performance experiment comparing main-thread and Web Worker GLB loading, measuring responsiveness, blocking time and time to first rendered frame across increasingly large 3D assets. | JavaScript · Three.js · Web Workers · WebGL · Performance API |
 | 09 | [Desktop Dragon](https://github.com/RomanQuintero/desktop-dragon) | Persistent Windows desktop pet with global eye tracking, direct interaction and a lightweight Tamagotchi-style state that continues evolving while the application is closed. | C# · .NET 8 · WPF · Win32 · JSON |
-| 10 | — | — | — |
+| 10 | [Portfolio 2026](https://github.com/RomanQuintero/portfolio-2026) | Personal portfolio built as Stage I of the 30 Projects challenge, combining selected engineering case studies with a README-driven challenge tracker that updates as new projects are released. | Next.js · React · TypeScript · Tailwind CSS · Motion |
+| 11 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
