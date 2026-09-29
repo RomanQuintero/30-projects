@@ -18,7 +18,8 @@ projects covering different technologies and ideas.
 | 08 | [GLB Stress Lab](https://github.com/RomanQuintero/glb-stress-lab) | Browser performance experiment comparing main-thread and Web Worker GLB loading, measuring responsiveness, blocking time and time to first rendered frame across increasingly large 3D assets. | JavaScript · Three.js · Web Workers · WebGL · Performance API |
 | 09 | [Desktop Dragon](https://github.com/RomanQuintero/desktop-dragon) | Persistent Windows desktop pet with global eye tracking, direct interaction and a lightweight Tamagotchi-style state that continues evolving while the application is closed. | C# · .NET 8 · WPF · Win32 · JSON |
 | 10 | [Portfolio 2026](https://github.com/RomanQuintero/portfolio-2026) | Personal portfolio built as Stage I of the 30 Projects challenge, combining selected engineering case studies with a README-driven challenge tracker that updates as new projects are released. | Next.js · React · TypeScript · Tailwind CSS · Motion |
-| 11 | — | — | — |
+| 11 | [Cellular Radar for AOSP](https://github.com/RomanQuintero/aosp-cellular-radar) | Native Android 17 Settings extension for inspecting framework-reported cellular information, including serving and observed cells, network identity, radio technology, frequency and signal metrics. Built directly into AOSP and validated on Cuttlefish. | Java · AOSP · Android Telephony · Cuttlefish · Soong · Robolectric |
+| 12 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
