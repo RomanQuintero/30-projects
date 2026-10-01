@@ -20,7 +20,8 @@ projects covering different technologies and ideas.
 | 10 | [Portfolio 2026](https://github.com/RomanQuintero/portfolio-2026) | Personal portfolio built as Stage I of the 30 Projects challenge, combining selected engineering case studies with a README-driven challenge tracker that updates as new projects are released. | Next.js · React · TypeScript · Tailwind CSS · Motion |
 | 11 | [Cellular Radar for AOSP](https://github.com/RomanQuintero/aosp-cellular-radar) | Native Android 17 Settings extension for inspecting framework-reported cellular information, including serving and observed cells, network identity, radio technology, frequency and signal metrics. Built directly into AOSP and validated on Cuttlefish. | Java · AOSP · Android Telephony · Cuttlefish · Soong · Robolectric |
 | 12 | [Agentic Visual QA](https://github.com/RomanQuintero/agentic-visual-qa) | Autonomous black-box web QA system combining deterministic browser checks, LLM-driven semantic exploration and VLM screenshot perception, with validated execution, replay and evidence-based defect reporting. | Python · Playwright · Qwen3-VL · PyTorch · Transformers |
-| 13 | — | — | — |
+| 13 | [CUDA Vision Bench](https://github.com/RomanQuintero/cuda-vision-bench) | Custom CUDA Gaussian Blur benchmark comparing naive and shared-memory tiled kernels against OpenCV CPU and OpenCV CUDA. Separates kernel-only from end-to-end performance to expose the impact of GPU memory transfers. | CUDA C++ · OpenCV CUDA · CMake · NVIDIA RTX 3090 |
+| 14 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
