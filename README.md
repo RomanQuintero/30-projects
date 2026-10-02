@@ -21,7 +21,8 @@ projects covering different technologies and ideas.
 | 11 | [Cellular Radar for AOSP](https://github.com/RomanQuintero/aosp-cellular-radar) | Native Android 17 Settings extension for inspecting framework-reported cellular information, including serving and observed cells, network identity, radio technology, frequency and signal metrics. Built directly into AOSP and validated on Cuttlefish. | Java · AOSP · Android Telephony · Cuttlefish · Soong · Robolectric |
 | 12 | [Agentic Visual QA](https://github.com/RomanQuintero/agentic-visual-qa) | Autonomous black-box web QA system combining deterministic browser checks, LLM-driven semantic exploration and VLM screenshot perception, with validated execution, replay and evidence-based defect reporting. | Python · Playwright · Qwen3-VL · PyTorch · Transformers |
 | 13 | [CUDA Vision Bench](https://github.com/RomanQuintero/cuda-vision-bench) | Custom CUDA Gaussian Blur benchmark comparing naive and shared-memory tiled kernels against OpenCV CPU and OpenCV CUDA. Separates kernel-only from end-to-end performance to expose the impact of GPU memory transfers. | CUDA C++ · OpenCV CUDA · CMake · NVIDIA RTX 3090 |
-| 14 | — | — | — |
+| 14 | [Crypto Strength Bench](https://github.com/RomanQuintero/crypto-strength-bench) | Visual cryptography benchmark measuring real CPU and RTX 3090 CUDA SHA-256 throughput, then extrapolating exhaustive-search times across increasingly large key spaces. Includes matched CPU/GPU comparison, PBKDF2 and controlled synthetic secret recovery. | CUDA C++ · Web Crypto · Node.js · JavaScript · NVIDIA RTX 3090 |
+| 15 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
