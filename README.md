@@ -22,7 +22,8 @@ projects covering different technologies and ideas.
 | 12 | [Agentic Visual QA](https://github.com/RomanQuintero/agentic-visual-qa) | Autonomous black-box web QA system combining deterministic browser checks, LLM-driven semantic exploration and VLM screenshot perception, with validated execution, replay and evidence-based defect reporting. | Python · Playwright · Qwen3-VL · PyTorch · Transformers |
 | 13 | [CUDA Vision Bench](https://github.com/RomanQuintero/cuda-vision-bench) | Custom CUDA Gaussian Blur benchmark comparing naive and shared-memory tiled kernels against OpenCV CPU and OpenCV CUDA. Separates kernel-only from end-to-end performance to expose the impact of GPU memory transfers. | CUDA C++ · OpenCV CUDA · CMake · NVIDIA RTX 3090 |
 | 14 | [Crypto Strength Bench](https://github.com/RomanQuintero/crypto-strength-bench) | Visual cryptography benchmark measuring real CPU and RTX 3090 CUDA SHA-256 throughput, then extrapolating exhaustive-search times across increasingly large key spaces. Includes matched CPU/GPU comparison, PBKDF2 and controlled synthetic secret recovery. | CUDA C++ · Web Crypto · Node.js · JavaScript · NVIDIA RTX 3090 |
-| 15 | — | — | — |
+| 15 | [RING — FPGA vs STM32](https://github.com/RomanQuintero/ring-fpga-vs-stm32) | Hardware-in-the-loop Pong experiment comparing FPGA and STM32 controllers under the same Windows-hosted physics and serial protocol. Implements a quantized neural-network policy in SystemVerilog on an Arty A7-35T and a FreeRTOS controller on STM32, with real-time dual-UART telemetry and physical hardware execution. | SystemVerilog · FPGA · STM32 · FreeRTOS · C# · Python · Vivado |
+| 16 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
