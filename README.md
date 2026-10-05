@@ -24,7 +24,8 @@ projects covering different technologies and ideas.
 | 14 | [Crypto Strength Bench](https://github.com/RomanQuintero/crypto-strength-bench) | Visual cryptography benchmark measuring real CPU and RTX 3090 CUDA SHA-256 throughput, then extrapolating exhaustive-search times across increasingly large key spaces. Includes matched CPU/GPU comparison, PBKDF2 and controlled synthetic secret recovery. | CUDA C++ · Web Crypto · Node.js · JavaScript · NVIDIA RTX 3090 |
 | 15 | [RING — FPGA vs STM32](https://github.com/RomanQuintero/ring-fpga-vs-stm32) | Hardware-in-the-loop Pong experiment comparing FPGA and STM32 controllers under the same Windows-hosted physics and serial protocol. Implements a quantized neural-network policy in SystemVerilog on an Arty A7-35T and a FreeRTOS controller on STM32, with real-time dual-UART telemetry and physical hardware execution. | SystemVerilog · FPGA · STM32 · FreeRTOS · C# · Python · Vivado |
 | 16 | [PUSHLESS](https://github.com/RomanQuintero/pushless) | Experimental Android benchmark exploring how far self-hosted push notifications can work without Firebase or another push provider. Compares WebSocket, MQTT, periodic polling and foreground-service delivery across background, screen-off, Doze, network-loss and process-death conditions on a physical Android device. | Kotlin · Android · Python · WebSocket · MQTT · JobScheduler · ADB |
-| 17 | — | — | — |
+| 17 | [Quant Ladder](https://github.com/RomanQuintero/quant-ladder) | Quantization benchmark mapping the speed, efficiency and quality trade-off of Qwen3-8B from F16 down to Q2_K on an RTX 3090. Measures throughput, VRAM, energy, perplexity, KL divergence and GSM8K accuracy, identifying Q4_K_M as the compression knee. | llama.cpp · GGUF · CUDA · Python · NVML · NVIDIA RTX 3090 |
+| 18 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
