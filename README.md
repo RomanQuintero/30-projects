@@ -25,7 +25,8 @@ projects covering different technologies and ideas.
 | 15 | [RING — FPGA vs STM32](https://github.com/RomanQuintero/ring-fpga-vs-stm32) | Hardware-in-the-loop Pong experiment comparing FPGA and STM32 controllers under the same Windows-hosted physics and serial protocol. Implements a quantized neural-network policy in SystemVerilog on an Arty A7-35T and a FreeRTOS controller on STM32, with real-time dual-UART telemetry and physical hardware execution. | SystemVerilog · FPGA · STM32 · FreeRTOS · C# · Python · Vivado |
 | 16 | [PUSHLESS](https://github.com/RomanQuintero/pushless) | Experimental Android benchmark exploring how far self-hosted push notifications can work without Firebase or another push provider. Compares WebSocket, MQTT, periodic polling and foreground-service delivery across background, screen-off, Doze, network-loss and process-death conditions on a physical Android device. | Kotlin · Android · Python · WebSocket · MQTT · JobScheduler · ADB |
 | 17 | [Quant Ladder](https://github.com/RomanQuintero/quant-ladder) | Quantization benchmark mapping the speed, efficiency and quality trade-off of Qwen3-8B from F16 down to Q2_K on an RTX 3090. Measures throughput, VRAM, energy, perplexity, KL divergence and GSM8K accuracy, identifying Q4_K_M as the compression knee. | llama.cpp · GGUF · CUDA · Python · NVML · NVIDIA RTX 3090 |
-| 18 | — | — | — |
+| 18 | [Pocket LLama](https://github.com/RomanQuintero/pocket-llama) | On-device LLM experiment measuring how large a model a physical Android phone can run before it stops being interactive. Runs Qwen3 0.6B–8B (Q4_K_M) through llama.cpp via NDK/JNI on a Galaxy Z Fold6 CPU, fully offline, recording load time, prefill/decode throughput, memory and thermal throttling to separate fits, usable and interactive. | Kotlin · Android NDK · JNI · C++ · llama.cpp · GGUF · ARM64 |
+| 19 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
