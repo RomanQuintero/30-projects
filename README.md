@@ -27,7 +27,8 @@ projects covering different technologies and ideas.
 | 17 | [Quant Ladder](https://github.com/RomanQuintero/quant-ladder) | Quantization benchmark mapping the speed, efficiency and quality trade-off of Qwen3-8B from F16 down to Q2_K on an RTX 3090. Measures throughput, VRAM, energy, perplexity, KL divergence and GSM8K accuracy, identifying Q4_K_M as the compression knee. | llama.cpp · GGUF · CUDA · Python · NVML · NVIDIA RTX 3090 |
 | 18 | [Pocket LLama](https://github.com/RomanQuintero/pocket-llama) | On-device LLM experiment measuring how large a model a physical Android phone can run before it stops being interactive. Runs Qwen3 0.6B–8B (Q4_K_M) through llama.cpp via NDK/JNI on a Galaxy Z Fold6 CPU, fully offline, recording load time, prefill/decode throughput, memory and thermal throttling to separate fits, usable and interactive. | Kotlin · Android NDK · JNI · C++ · llama.cpp · GGUF · ARM64 |
 | 19 | [Voice Ladder](https://github.com/RomanQuintero/voice-ladder) | Local zero-shot voice-cloning benchmark measuring how much reference audio a cloner needs to sound like the speaker. Climbs a 3 s → 5 min reference ladder for XTTS-v2, Chatterbox Multilingual and F5-TTS (Spanish) on an RTX 3090 using Multilingual LibriSpeech readers, scoring ECAPA speaker similarity, Whisper ΔWER, DNSMOS, RTF and VRAM. Finds that raw audio plateaus after ~10 s, while picking the best 10 s window from 5 min lifts similarity to 0.775 (ceiling 0.904). | Python · PyTorch · CUDA · XTTS-v2 · Chatterbox · F5-TTS · SpeechBrain · Whisper · NVIDIA RTX 3090 |
-| 20 | — | — | — |
+| 20 | [Portfolio 2026: Stage II](https://github.com/RomanQuintero/portfolio-2026) | Portfolio 2026: Stage II | Next.js · React · TypeScript · Tailwind CSS · Motion |
+| 21 | — | — | — |
 | ... | ... | ... | ... |
 | 30 | — | — | — |
 
